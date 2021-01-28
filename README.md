@@ -3,7 +3,7 @@ Recopilacion de notas, apuntes y guiones de los contenidos del Increible JS
 
 ## Guiones
 
-* ¿ Javascript vs Typescript ?
+* [¿ Javascript vs Typescript ?](https://github.com/Turing-s-Ducks/podcast-scripts/blob/main/js_vs_ts.md)
 * ¿ Como iniciar una carrera como Front End Developer ?
 * ¿ Como Iniciar una carrera como Back End Developer ?
 * ¿ Ser programador sin estudiar en la Universidad ?
