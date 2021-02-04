@@ -15,8 +15,26 @@ Recopilacion de notas, apuntes y guiones de los contenidos del Increible JS
 * ¿ Que honda con las redes neuronales y como aplicarlas en javascript ?
 * ¿ Tiene futuro la inteligencia artificial en Javascript ?
 * 10 Tips para manerar MySQL como un crack
+* ¿Que es la ciencia de datos?
+* ¿Que hace un cientifico de datos?
+* ¿Como ser un Cientifico de datos?
+* Que hace un desarrollador Web
+* Tipos de desarrolladores web
+* ¿Que son los paradigmas de programacion?
+* ¿Que son las Bases de datos? 
+* NoSQL y SQL 
+* Diferencias entre Java y Javascript
+* Diferencias entre Pytohn y Javascript
+* Programacion Creativa
+* Programacion competitiva
+* Olimpiadas de Programacion
+* Que es un Hackathon
+* ¿Como hackear un hackathon?
+* ¿Que es un Datathon?
 
 ## Power by: 
 
 * **Developer Circles Mexico City.**
 * **JetBrain**
+
+* **Pato de Turing**
